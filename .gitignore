@@ -1,0 +1,16 @@
+# Generated build and IDE files (never commit).
+target/
+.idea/
+*.iml
+.DS_Store
+# Local credentials, logs, temporary files
+.env
+.env.*
+!.env.example
+logs/
+*.log
+data/**/.tmp-*
+# OS/editor backup files
+*.swp
+*.swo
+*~
