@@ -1,0 +1,10 @@
+{"id": "fruits", "name": "Fruits"}
+{"id": "vegetables", "name": "Vegetables"}
+{"id": "dairy-eggs", "name": "Dairy & Eggs"}
+{"id": "bakery", "name": "Bakery"}
+{"id": "meat-seafood", "name": "Meat & Seafood"}
+{"id": "grains-pulses", "name": "Rice, Grains & Pulses"}
+{"id": "beverages", "name": "Beverages"}
+{"id": "snacks", "name": "Snacks"}
+{"id": "frozen-foods", "name": "Frozen Foods"}
+{"id": "household", "name": "Household Essentials"}

@@ -1,0 +1,20 @@
+{"id": "PRD-SAMPLE001", "name": "Red Apples", "category": "fruits", "description": "Fresh crunchy apples", "unit": "1 kg", "price": 850.0, "imageUrl": "🍎", "active": true}
+{"id": "PRD-SAMPLE002", "name": "Bananas", "category": "fruits", "description": "Sweet local banana bunch", "unit": "1 kg", "price": 360.0, "imageUrl": "🍌", "active": true}
+{"id": "PRD-SAMPLE003", "name": "Carrots", "category": "vegetables", "description": "Farm-fresh orange carrots", "unit": "500 g", "price": 240.0, "imageUrl": "🥕", "active": true}
+{"id": "PRD-SAMPLE004", "name": "Tomatoes", "category": "vegetables", "description": "Ripe tomatoes from local farms", "unit": "1 kg", "price": 420.0, "imageUrl": "🍅", "active": true}
+{"id": "PRD-SAMPLE005", "name": "Fresh Milk", "category": "dairy-eggs", "description": "Creamy pasteurized fresh milk", "unit": "1 L", "price": 510.0, "imageUrl": "🥛", "active": true}
+{"id": "PRD-SAMPLE006", "name": "Farm Eggs", "category": "dairy-eggs", "description": "Fresh medium eggs", "unit": "6 pack", "price": 480.0, "imageUrl": "🥚", "active": true}
+{"id": "PRD-SAMPLE007", "name": "Wholegrain Bread", "category": "bakery", "description": "Soft baked wheat loaf", "unit": "1 loaf", "price": 390.0, "imageUrl": "🍞", "active": true}
+{"id": "PRD-SAMPLE008", "name": "Croissants", "category": "bakery", "description": "Golden butter pastries", "unit": "2 pack", "price": 590.0, "imageUrl": "🥐", "active": true}
+{"id": "PRD-SAMPLE009", "name": "Fresh Fish", "category": "meat-seafood", "description": "Cleaned fresh fish portions", "unit": "500 g", "price": 1240.0, "imageUrl": "🐟", "active": true}
+{"id": "PRD-SAMPLE010", "name": "Chicken Breast", "category": "meat-seafood", "description": "Boneless chicken breast", "unit": "500 g", "price": 1190.0, "imageUrl": "🍗", "active": true}
+{"id": "PRD-SAMPLE011", "name": "Red Rice", "category": "grains-pulses", "description": "Sri Lankan wholegrain red rice", "unit": "1 kg", "price": 360.0, "imageUrl": "🍚", "active": true}
+{"id": "PRD-SAMPLE012", "name": "Green Gram", "category": "grains-pulses", "description": "Fresh green mung beans", "unit": "500 g", "price": 440.0, "imageUrl": "🫘", "active": true}
+{"id": "PRD-SAMPLE013", "name": "Orange Juice", "category": "beverages", "description": "Refreshing orange drink", "unit": "1 L", "price": 690.0, "imageUrl": "🧃", "active": true}
+{"id": "PRD-SAMPLE014", "name": "Coconut Water", "category": "beverages", "description": "Natural refreshing coconut water", "unit": "500 ml", "price": 320.0, "imageUrl": "🥥", "active": true}
+{"id": "PRD-SAMPLE015", "name": "Cashew Nuts", "category": "snacks", "description": "Roasted crunchy cashews", "unit": "200 g", "price": 990.0, "imageUrl": "🥜", "active": true}
+{"id": "PRD-SAMPLE016", "name": "Potato Chips", "category": "snacks", "description": "Crispy lightly salted chips", "unit": "150 g", "price": 350.0, "imageUrl": "🥔", "active": true}
+{"id": "PRD-SAMPLE017", "name": "Frozen Peas", "category": "frozen-foods", "description": "Quick-frozen green peas", "unit": "500 g", "price": 660.0, "imageUrl": "🫛", "active": true}
+{"id": "PRD-SAMPLE018", "name": "Frozen Berries", "category": "frozen-foods", "description": "Mixed berries in a resealable pack", "unit": "300 g", "price": 1490.0, "imageUrl": "🫐", "active": true}
+{"id": "PRD-SAMPLE019", "name": "Dish Soap", "category": "household", "description": "Gentle dishwashing liquid", "unit": "500 ml", "price": 450.0, "imageUrl": "🧼", "active": true}
+{"id": "PRD-SAMPLE020", "name": "Paper Towels", "category": "household", "description": "Absorbent household rolls", "unit": "2 rolls", "price": 550.0, "imageUrl": "🧻", "active": true}
